@@ -17,6 +17,8 @@
 # The model with RFECV took less execution time when compared to the model without RFECV.
 
 # Project 3 : POST CODE ANALYSIS
+# The aim of the project is to know what lead sources are the most successful and which postcode areas that the client  should focus on.
+# Tools Used : Advanced Excel and PBI
 
 
 
