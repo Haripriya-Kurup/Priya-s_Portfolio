@@ -4,7 +4,7 @@
 # Project 1 : FLIGHT DISRUPTION DATA MANAGEMENT SYSTEM .
 # The project aims at building end to end business intelligent system for on time flight performance, analyzing delays and cancellations comparing with weather factors.
 # Dataset Used US Filight 2016 to 2018 dataset
-# Tools used : SQL and Python
+# Tools used : SQL , Python,Tableau,Microsoft Azure
 
 
 # Project 2 : EFFECT OF RECURSIVE FEATURE ELIMINATION WITH CROSS VALIDATION ON MACHINE LEARNING ALGORITHMS FOR DIFFERENT DATASETS.
